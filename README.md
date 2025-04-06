@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Nick👋</h1>
-<h3 align="center">A passionate final-year Computer Science student</h3>
+<h3 align="center">Postgraduate student in Computer Science</h3>
 
 <p align="center">
-As a final-year Computer Science student, I am deeply passionate about crafting immersive and interactive experiences that seamlessly blend technology and creativity. Experienced in full-stack development, I possess a knack for problem-solving and flourish within collaborative team environments. Through hands-on experience, I have honed my skills in exploring and implementing innovative solutions, prioritizing the creation of captivating user interactions. I am enthusiastic about leveraging my expertise to make meaningful contributions to progressive projects in the dynamic field of interactive technology.
+I'm a postgraduate student in Computer Science and a fellowship researcher at the HCI Laboratory of ICS-FORTH. My work focuses on designing and developing interactive and immersive experiences that bridge technology and human-centered design. With a background in full-stack development, I enjoy tackling complex problems and collaborating across disciplines. I’m especially interested in how innovative interfaces can enhance user interaction and engagement in real-world applications.
 </p>
 
 <h3 align="center">🛠 Technologies & Tools</h3>
